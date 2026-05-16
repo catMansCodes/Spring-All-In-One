@@ -13,6 +13,22 @@ This repository provides a **structured, in-depth roadmap to mastering Spring Fr
 
 ---
 
+## 📋 Table of Contents
+
+| # | Module | Package |
+|---|--------|---------|
+| 1 | [Spring Core (IoC + DI + Bean Lifecycle)](#-1-spring-core-ioc--di--bean-lifecycle) | `com.catmanscode.spring.core` |
+| 2 | [Spring Boot (Auto Configuration + Starters)](#-2-spring-boot-auto-configuration--starters) | `com.catmanscode.spring.boot` |
+| 3 | [Spring MVC (Web Layer)](#-3-spring-mvc-web-layer) | `com.catmanscode.spring.mvc` |
+| 4 | [Spring AOP (Aspect-Oriented Programming)](#-4-spring-aop-aspect-oriented-programming) | `com.catmanscode.spring.aop` |
+| 5 | [Spring REST (API Design + Best Practices)](#-5-spring-rest-api-design--best-practices) | `com.catmanscode.spring.rest` |
+| 6 | [Spring Data JPA & Hibernate](#-6-spring-data-jpa--hibernate) | `com.catmanscode.spring.jpa` |
+| 7 | [Spring Security](#-7-spring-security) | `com.catmanscode.spring.security` |
+| 8 | [Spring Boot Testing](#-8-spring-boot-testing) | `com.catmanscode.spring.testing` |
+| 9 | [API Documentation (Swagger / OpenAPI)](#-9-api-documentation-swagger--openapi) | `com.catmanscode.spring.documentation` |
+
+---
+
 ## 📂 Modules Covered
 
 The content follows a **layered architecture approach**, starting from **core internals → advanced production practices**.
@@ -203,29 +219,3 @@ Follow this sequence:
 Spring Core → Boot → MVC → AOP → REST → JPA → Security → Testing → Documentation
 ---
 
-## 💡 Interview Preparation Strategy
-
-For each module:
-
-- ✅ Understand concepts deeply
-- ✅ Practice real-world examples
-- ✅ Revise frequently asked questions
-- ✅ Learn common mistakes & edge cases
-- ✅ Be able to explain internals clearly
-
----
-
-## 🚀 Target Outcome
-
-After completing this repository, you will be able to:
-
-- Design production-grade Spring applications
-- Debug complex real-world issues
-- Explain Spring internals confidently
-- Crack senior backend interviews (8–12+ years)
-
----
-
-## 🔜 Next Steps
-
-➡️ Start with: **Spring Core Deep Dive**
